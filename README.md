@@ -1,2 +1,3 @@
 # CodeSmashers-Wordpress-website
-This is a coding blog website which is developed with Wordpress &amp; Elementor.
+## Link - http://wpcodesmashers.rf.gd/
+Code Smashers is a Website for Learning Wordpress. This webiste Ui is designed with Wordpress & Elementor.
